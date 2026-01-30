@@ -1,6 +1,6 @@
 {
-  "serverHost": "example.aternos.me",
-  "serverPort": 12345,
-  "botUsername": "MyBot",
+  "serverHost": "ReconSMP-Beta.aternos.me",
+  "serverPort": 61504,
+  "botUsername": "SigmaPlayer",
   "botChunk": 1
 }
